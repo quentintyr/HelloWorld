@@ -3,8 +3,7 @@
 Author: Quentin Tyr <br>
 LBS Eibiswald | 2aAPC
 
-Meine Anwenudung ermöglicht es dem User Hi in der Console auszugeben<br>
-nur mal placeholder
+Meine Anwenudung gibt in der Konsole Hello World aus.
 
 ## Installation
 
@@ -21,7 +20,11 @@ Technologien im Einsatz:
 
 ```php
 
-//some source code configuration
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("HE HE HA HA");
+    }
+}
 
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
