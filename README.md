@@ -3,20 +3,43 @@
 Author: Quentin Tyr <br>
 LBS Eibiswald | 2aAPC
 
-Meine Anwenudung gibt in der Konsole Hello World aus.
+Meine Anwenudung gibt in der Konsole HE HE HA HA aus.
 
 ## Installation
 
 ```cmd
 
-git checkout origin/master
+git init
+
+```
+```cmd
+
+git add --all
+
+```
+```cmd
+
+git commit -m "initial commit"
+
+```
+```cmd
+
+git remote add origin [https://github.com/quentintyr/HelloWorld.git]
+
+```
+```cmd
+
+git push -u origin master
 
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Verwendung
 Technologien im Einsatz:
+<br>
+<br>
 [![Java][java.com]][java-url]
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ```php
 
